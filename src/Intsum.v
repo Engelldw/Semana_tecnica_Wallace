@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module Intsum(
+module src(
     input clk,
     input [5:0]entrA,
     input [5:0]entrB,
